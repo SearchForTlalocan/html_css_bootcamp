@@ -1,0 +1,32 @@
+div {
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    border-radius: 100%;
+    background-image: url("../007_tag-attributes/02_image-element/skrim.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+img {
+    border: 10px #fa53ff solid ;
+    border-radius: 100%
+}
+
+.echo {
+    border: 10px #fa53ff dashed ;
+    border-radius: 100%
+}
+
+.echo2 {
+    border: 10px #fa53ff dotted ;
+    border-radius: 100%
+}
+
+.echo3 {
+    border: 10px #fa53ff dot-dot-dash ;
+}
+
+.echo4 {
+    border: 10px #fa53ff ridge ;
+}
